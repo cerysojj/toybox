@@ -28,7 +28,7 @@ In my preliminary experiments, I do not use bounding boxes. But in my final expe
   - **Train**: 1,500 images/class
   - **Val/Test**: 100 images/class
 
-- **ImageNet-100**: A 100-class subset of [ImageNet-1k](https://www.kaggle.com/datasets/ambityga/imagenet100).
+- **[ImageNet-100](https://www.kaggle.com/datasets/ambityga/imagenet100)**: A 100-class subset of ImageNet.
   - **Train**: 1,300 images/class
   - **Val**: 50 images/class
 
