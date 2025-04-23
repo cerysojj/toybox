@@ -1,6 +1,6 @@
 # Infant-Inspired Deep Learning for Robust Visual Recognition
 
-This repository contains code for experiments on training CNNs with infant-inspired curricula. This project examines how a training CNNs with a developmentally-inspired blurry-to-clear curriculum shapes robustness to blur across domains (faces vs. objects) and classification levels (instance vs. category).
+This repository contains code for experiments on training CNNs with an infant-inspired blurry-to-clear curriculum and seeing how this shapes robustness to blur across domains (faces vs. objects) and classification levels (instance vs. category).
 
 ---
 
