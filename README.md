@@ -67,7 +67,7 @@ sbatch --time=08:00:00 --gres=gpu:1 scripts/run_job.sbatch \
     --dataset toybox \
     --epochs 10 \
     --learning_rate 0.01 \
-    --source_data_dir /path/to/data
+    --source_data_dir <PATH_TO_DATA>
 ```
 
 ### Argument Options
