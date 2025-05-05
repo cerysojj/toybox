@@ -71,7 +71,7 @@ sbatch --time=08:00:00 --gres=gpu:1 scripts/run_job.sbatch \
 ```
 
 ### Argument Options
-You can customize the model, dataset, and training mode by adjusting the arguments in your SLURM command:
+You can customise the model, dataset, and training mode by adjusting the arguments in your SLURM command:
 
 | Use Case	| --model | --dataset	| Additional Arguments | 
 | ----------| -----------------| --------------------- | ------------------- |
